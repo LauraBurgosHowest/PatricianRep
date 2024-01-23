@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "The advanced bachelor in bioinformatics
+echo "The advanced bachelor bioinformatics
 autonomously clarifies and solves a biological problem by
 selecting a relevant programming language and by applying it
 efficiently to develop an own program.";
+
+echo "This is learning objective 1";
