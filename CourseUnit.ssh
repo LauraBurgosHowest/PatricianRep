@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "General Objective";
+
+echo"On a daily basis people are confronted with databases, including in biological research,
+where nowadays they could not be missed. Exchanging data and using different research
+results for further analysis requires structured (data)storage. Next to public accessible
+databases, it is an asset that a bioinformatician can assemble a decent database system
+on his own. The used system is highly dependable of the further applications. In addition,
+it’s also important to manage data that isn’t stored in a database in an orderly manner.
+This data should then be findable, accessible (if allowed), interoperable and reusable."
