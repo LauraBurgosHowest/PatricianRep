@@ -1,10 +1,17 @@
 # PatricianRep
-This is the learning outcomes.
+This is the Review Chart
 
 ## Learning Outcomes
-- Version Control
 - Introduction
+- Version Control
+- SQL
+- Data Management
+- NoSQL
+- Bioinformatics
+- Completed
+- In Progress
 
-col 1 | col 2
+Chapters | Completion
 ---|---
-Version Control | Introduction
+Introduction | Completed
+Version Control | Completed
